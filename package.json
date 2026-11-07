@@ -1,23 +1,27 @@
 {
   "name": "playwright-homework2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Automated testing of the SauceDemo web application using Playwright.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "playwright test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/owen20108/Playwright-Homework2.git"
+    "url": "git+https://github.com/Gx0b/Playwright-Homework2.git"
   },
-  "keywords": [],
+  "keywords": [
+    "playwright",
+    "automation-testing",
+    "saucedemo"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/owen20108/Playwright-Homework2/issues"
+    "url": "https://github.com/Gx0b/Playwright-Homework2/issues"
   },
-  "homepage": "https://github.com/owen20108/Playwright-Homework2#readme",
+  "homepage": "https://github.com/Gx0b/Playwright-Homework2#readme",
   "devDependencies": {
     "@playwright/test": "^1.64.1"
   }
